@@ -1,7 +1,7 @@
 {
   "name": "gulp-milkshake",
-  "version": "1.0.0",
-  "description": "gulp-milkshake handle a set of common task and allow you to declare apps into your project with minimal configuration",
+  "version": "0.1.0",
+  "description": "gulp-milkshake handle a set of common and opinionated build/run task and allow you to declare multiple apps into your project with minimal configuration.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
     "gulp",
     "task"
   ],
-  "author": "YT",
+  "author": "Yannis Torres <yannis@createrocks.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/atomictech/gulp-milkshake/issues"
