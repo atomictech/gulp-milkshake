@@ -1,7 +1,7 @@
 {
   "name": "gulp-milkshake",
   "version": "0.1.0",
-  "description": "gulp-milkshake handle a set of common and opinionated build/run task and allow you to declare multiple apps into your project with minimal configuration.",
+  "description": "Handle repository applications building, packaging and watch through gulp and a minimal configuration to declare multiple apps in the same repository.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
