@@ -1,0 +1,23 @@
+{
+  "name": "gulp-milkshake",
+  "version": "1.0.0",
+  "description": "gulp-milkshake handle a set of common task and allow you to declare apps into your project with minimal configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomictech/gulp-milkshake.git"
+  },
+  "keywords": [
+    "gulp",
+    "task"
+  ],
+  "author": "YT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atomictech/gulp-milkshake/issues"
+  },
+  "homepage": "https://github.com/atomictech/gulp-milkshake#readme"
+}
