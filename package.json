@@ -68,5 +68,8 @@
     "superagent-csrf-middleware": "^0.3.0",
     "supertest-session": "^3.0.0",
     "yargs": "^6.6.0"
+  },
+  "devDependencies": {
+    "lerna": "^3.4.3"
   }
 }

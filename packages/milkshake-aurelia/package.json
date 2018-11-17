@@ -1,0 +1,23 @@
+{
+  "name": "milkshake-aurelia",
+  "version": "0.0.0",
+  "description": "tasks to handle an aurelia app",
+  "keywords": [
+    "milkshake",
+    "aurelia"
+  ],
+  "author": "Yannis Torres <yann.torres@gmail.com>",
+  "homepage": "https://github.com/atomictech/gulp-milkshake/tree/master/packages/milkshake-aurelia#readme",
+  "license": "MIT",
+  "main": "lib/milkshake-aurelia.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

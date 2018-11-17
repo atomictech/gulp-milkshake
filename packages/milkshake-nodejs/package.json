@@ -1,0 +1,23 @@
+{
+  "name": "milkshake-nodejs",
+  "version": "0.0.0",
+  "description": "tasks to handle a nodejs app",
+  "keywords": [
+    "milkshake",
+    "nodejs"
+  ],
+  "author": "Yannis Torres <yann.torres@gmail.com>",
+  "homepage": "https://github.com/atomictech/gulp-milkshake/tree/master/packages/milkshake-nodejs#readme",
+  "license": "MIT",
+  "main": "lib/milkshake-nodejs.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
